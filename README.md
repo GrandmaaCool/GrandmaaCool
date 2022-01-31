@@ -2,12 +2,13 @@
 
 ### Stuff I do:
 I'm studying back end and front end development to become a full stack developer.
+I'm also working on an application simular to ngrok for tcp tunneling.
 I make games.
 I make music.
 
 ### Stuff I use:
 Editor: VSCode, Neovim
-JS Libraries: Next.js, Three.js, Chakra UI
+JS Libraries: Next.js, Three.js,
 Game Engine: Unity
 
 ### Stuff I'm working on:
