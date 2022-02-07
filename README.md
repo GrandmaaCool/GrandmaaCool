@@ -2,7 +2,6 @@
 
 ### Stuff I do:
 I'm studying back end and front end development to become a full stack developer.
-I'm also working on an application simular to ngrok for tcp tunneling.
 I make games.
 I make music.
 
@@ -13,6 +12,7 @@ Game Engine: Unity
 
 ### Stuff I'm working on:
 Currently working on my portfolio website, some games (mainly ps1 styled graphics).
+I'm also working on an application simular to ngrok for tcp tunneling.
 
 ### What I wanna do:
 I want to become a fullstack developer
