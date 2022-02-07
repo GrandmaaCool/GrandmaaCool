@@ -1,7 +1,5 @@
 ## gramgram :D
-#### or jack  
-
-===============================
+## or jack  
 
 # About Me
 
