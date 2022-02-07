@@ -1,4 +1,5 @@
-# GrandmaCool
+# gramgram :D
+=============
 
 ### Stuff I do:
 I'm studying back end and front end development to become a full stack developer.
