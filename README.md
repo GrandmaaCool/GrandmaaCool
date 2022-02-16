@@ -5,8 +5,7 @@
 
 ### Stuff I do:
 I'm studying back end and front end development to become a full stack developer.
-I make games.
-I make music.
+I alsomake games and produce music.
 
 ### Stuff I use:
 Editor: VSCode, Neovim
