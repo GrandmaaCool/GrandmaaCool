@@ -13,8 +13,8 @@ JS Libraries: Next.js, Three.js,
 Game Engine: Unity
 
 ### Stuff I'm working on:
-Currently working on my portfolio website, some games (mainly ps1 styled graphics).
-I'm also working on an application simular to ngrok for tcp tunneling.
+Random projects to build my knowledge.
+Also some games.
 
 ### What I wanna do:
 I want to become a fullstack developer
