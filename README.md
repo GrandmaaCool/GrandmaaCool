@@ -1,8 +1,3 @@
-# gramgram :D
-### or jack  
-
-# About Me
-
 ### Stuff I do:
 I'm studying back end and front end development to become a full stack developer.
 I alsomake games and produce music.
